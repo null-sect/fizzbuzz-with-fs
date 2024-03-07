@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ZdyE3o1c56cJqcicFxVEt6juOon6aFWU3E4lWxqvL/XgeAZiOrX4z8VBnEifXvawBG4UOTMqx2dycaKU1ljnQ==",
+  "success": true,
+  "projectFilePath": "/home/q/myproj/fizzbuzz/fizzbuzz.fsproj",
+  "expectedPackageFiles": [
+    "/home/q/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
